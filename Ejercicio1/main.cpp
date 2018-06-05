@@ -1,5 +1,9 @@
 #include <iostream>
 
+///---------Ej.MI-1---------
+/// Dados dos valores enteros A y B, informar la suma, la resta y el producto
+/// Autor: Giuseppe Ciavirella
+
 using namespace std;
 
 int main()

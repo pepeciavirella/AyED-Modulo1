@@ -1,5 +1,12 @@
 #include <iostream>
 
+///---------Ej.MI-4---------
+/// A partir de un valor entero ingresado por teclado, se pide informar:
+/// a) La quinta parte de dicho valor
+/// b) El resto de la división por 5
+/// c) La séptima parte del resultado del punto a) 
+/// Autor: Giuseppe Ciavirella
+
 using namespace std;
 
 int main()

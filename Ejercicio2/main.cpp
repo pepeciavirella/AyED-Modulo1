@@ -1,5 +1,10 @@
 #include <iostream>
 
+///---------Ej.MI-2---------
+/// Dada una terna de números naturales que representan al día, al mes y al año de una determinada
+/// fecha informarla como un solo número natural de 8 dígitos con la forma (AAAAMMDD)
+/// Autor: Giuseppe Ciavirella
+
 using namespace std;
 
 int main()
