@@ -1,7 +1,7 @@
 #include <iostream>
 #define TAMMOTIVO 100
 
-/// ---------Ej.MI-7---------
+/// ---------Ej.MI-15---------
 /// Se realiza una inspección en una fábrica de pinturas, y se detectaron 20
 /// infracciones. De cada infracción se tomó nota de los siguientes datos:
 /// - Tipo de Infracción (1, 2, 3, ó 4)
