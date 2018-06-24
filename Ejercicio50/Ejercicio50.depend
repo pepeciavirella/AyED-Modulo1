@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1529858242 source:c:\users\giuseppe\documents\giuseppe\utn\ayudantía\ayed-modulo1\ejercicio50\main.cpp
+	<iostream>
+	<cstring>
+	<ctype.h>
+
