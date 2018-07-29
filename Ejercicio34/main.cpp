@@ -1,6 +1,6 @@
 #include <iostream>
 
-///---------Ej.MI-1---------
+///---------Ej.MI-34---------
 /// Desarrollar una función tal que dado un número entero positivo calcule y retorne su factorial
 /// Autor: Giuseppe Ciavirella
 
